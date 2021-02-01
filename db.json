@@ -1,0 +1,173 @@
+{
+  "bg": "https://www.theedgesusu.co.uk/wp-content/uploads/2020/04/2019_9_20_6c418885-8177-4691-86b1-70ecb8b112bb_png_2000x1125.png",
+  "title": "Quiz Grey's Anatomy",
+  "description": "Teste os seus conhecimentos sobre a série que é sucesso mundial",
+  "questions": [
+    {
+      "image": "https://i.pinimg.com/originals/fb/c5/63/fbc563a8dff15f20d0051bb596018eb9.gif?epik=dj0yJnU9U2lOM1c3TzA2TlBUVk4weDQ4TDZyWlFpREY0MVNGdTkmcD0wJm49VG5oMlZxQ3M2bWZKenB3allVWjZ2QSZ0PUFBQUFBR0FVYURn",
+      "title": "Em qual temporada o George O'Malley morre??",
+      "description": "Essa é para aquecer",
+      "answer": 1,
+      "alternatives": [
+        "Temporada 3",
+        "Temporada 5",
+        "Temporada 7",
+        "Temporada 11"
+      ]
+    },
+    {
+      "image": "https://teleseries.com.br/wp-content/uploads/2012/03/doc.jpg",
+      "title": "Qual era o nome do cachorro da Meredith e do Derek??",
+      "description": "Um doguinho muito fofo",
+      "answer": 3,
+      "alternatives": [
+        "Scooby",
+        "Tobi",
+        "Spike",
+        "Doc"
+
+      ]
+    },
+    {
+      "image": "http://1.bp.blogspot.com/-WMjo12olg-4/T7kyB4B9fiI/AAAAAAAABWg/iXL1ypACu3o/s1600/c3db0824612966d8698a2c318b9531d1.jpg",
+      "title": "Qual desses personagens estavam no acidente do avião?",
+      "description": "Essa é triste >_<",
+      "answer": 3,
+      "alternatives": [
+        "Teddy Altman e April Kepner",
+        "Richard Webber e Jackson Every",
+        "Alex Karev e Addison Shepherd",
+        "Mark Sloan e Lexie Grey"
+
+      ]
+    },
+    {
+      "image": "https://66.media.tumblr.com/f3a11ccaffc3d5c8f012aec2f0ee37a1/tumblr_priy8dwYLx1qbwrnuo1_540.gif",
+      "title": "O paciente Denny Duquette precisava de um coração novo, mas houve uma disputa entre dois cirurgiões para conseguir o coração. Quem eram esses dois cirurgiões?",
+      "description": "S2",
+      "answer": 1,
+      "alternatives": [
+         "Dr. Hunt e Dr. Avery",
+         "Dr. Burker e Dra. Hanh",
+         "Dr. Shepherd e Dr. Burker",
+         "Dra. Grey e Dra. Kepner"
+      ]
+    },
+    {
+      "image": "https://i.pinimg.com/originals/9f/f3/67/9ff3677174669cc3640ba7d73e07c224.gif",
+      "title": "Qual era o nome do paciente que a Teddy Altman se casou?",
+      "description": "Ah o amor...",
+      "answer": 2,
+      "alternatives": [
+        "Lukas",
+        "Diogo", 
+        "Henry",
+        "Diego"
+
+      ]
+    },
+    {
+      "image": "https://em.wattpad.com/a0cb833991623c70931cf80343f51e67548ab2e0/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f776174747061642d6d656469612d736572766963652f53746f7279496d6167652f5647484c674d5a7459644b6364413d3d2d3639333439313138302e313538316563363766343863333038373330323036353233343334362e676966",
+      "title": "Onde Derek recebe a chance de trabalhar na 10 temporada?",
+      "description": "Duvido você acertar essa",
+      "answer": 3,
+      "alternatives": [
+        "Rio de Janeiro",
+        "Califórnia",
+        "N.Y",
+        "Washington DC"
+        
+        ]
+    },
+    {
+      "image": "https://cdn-kboing-images.akamaized.net/f_noticias/5/b/a/5ba53d3182f5f.jpg",
+      "title": "Qual apelido Meredith recebeu dos internos?",
+      "description": "Essa nem eu lembrava haha",
+      "answer": 1,
+      "alternatives": [
+        "Mulher Maravilha",
+        "Medusa",
+        "Safadinha",
+        "Nazista"
+
+      ]
+    },
+    {
+      "image": "https://assets.papelpop.com/wp-content/uploads/2017/06/meredith-criancas.gif",
+      "title": "Meredith e Derek têm três filhos? Quais são os nomes deles???",
+      "description": "Filhos lindos...",
+      "answer": 3,
+      "alternatives": [
+         "Ellis, Zola e Tatche",
+         "Ellis, Zohla e Bailey",
+         "Bailey, Eliss e Zola",
+         "Ellis, Zola e Bailey"
+      ]
+    },
+    {
+      "image": "https://s2.glbimg.com/Q92pZ82hRZh8Tt3lihTSHP716Ks=/0x0:1632x1090/1008x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_e84042ef78cb4708aeebdf1c68c6cbd6/internal_photos/bs/2020/F/v/7RKMB0Q529iLT6qSNupQ/captura-de-tela-2020-10-08-as-16.19.43.png",
+      "title": "Arizona Robbins é chefe de quais departamentos cirúrgicos???",
+      "description": "Essa merece descanso",
+      "answer": 2,
+      "alternatives": [
+         "Pediatria e Neonatal",
+         "Cardiotorácica e Pediatria",
+         "Pediatria e Fetal",
+         "Neuro e Geral"
+      ]
+    },
+    {
+      "image": "https://conteudo.imguol.com.br/c/entretenimento/bf/2016/09/23/23set2016---sandra-oh-como-cristina-yang-em-greys-anatomy-1474673116342_v2_1920x1080.jpg",
+      "title": "Para onde Cristina se muda no final da 10 temporada?",
+      "description": "Sempre fez falta :-(",
+      "answer": 2,
+      "alternatives": [
+         "Brasil",
+         "França",
+         "Suíça",
+         "Japão"
+      ]
+    },
+    {
+      "image": "https://ugc.reveliststatic.com/gen/full/2016/09/15/12/cg/kd/phjrt1rfw42qbwe.gif",
+      "title": "Owen Hunt é militar do exército. Em sua primeira aparição na série ele se apresenta como:",
+      "description": "Essa é difícil, né?",
+      "answer": 0,
+      "alternatives": [
+         "Major Owen Hunt",
+         "Tenente Owen Hunt",
+         "Coronel Owen Hunt",
+         "Sargento Owen Hunt"
+      ]
+    },
+    {
+      "image": "https://cdn1.edgedatg.com/aws/v2/abc/GreysAnatomy/person/736356/ac1b9aac41324763dd9c0d476a4361da/320x180-Q90_ac1b9aac41324763dd9c0d476a4361da.jpg",
+      "title": "Qual motivo levou Richard Webber a ser preso?",
+      "description": "Quem imaginava?",
+      "answer": 1,
+      "alternatives": [
+         "Atropelou uma pessoa usando a moto do DeLucca",
+         "Destruiu um bar que vendia bebidas por fichas do Alcoólatras Anônimo",
+         "Colocou fogo na sala de cirurgia enquanto operava ",
+         "Agrediu um paciente alcoólatra"
+      ]
+    }
+  ],
+  "external": [
+    "https://aluraquiz-css.omariosouto.vercel.app/",
+    "https://quiz-react.brenoha.vercel.app/",
+    "https://random-quiz.joaopaulocampospereira.vercel.app/"
+  ],
+  "theme": {
+    "colors": {
+      "primary": "#a10d1c",
+      "secondary": "#000",
+      "light": "#fff",
+      "mainBg": "#171B35",
+      "contrastText": "#FFF",
+      "wrong": "#FF5722",
+      "success": "#4CAF50"
+    },
+    "borderRadius": "4px"
+  }
+}
